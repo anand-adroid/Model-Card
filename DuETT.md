@@ -1,4 +1,5 @@
- <a href="https://raw.githubusercontent.com/anand-android/Model-Card/main/Model_card.pdf" download="Model_card.pdf">Document</a> provides the complete model card of DuETT model.
+
+ [Download Model Card PDF](https://raw.githubusercontent.com/anand-adroid/Model-Card/main/Model_card.pdf)
 
  Below figure shows the snapshot of the DuETT model card
 
