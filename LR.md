@@ -1,7 +1,7 @@
 
- [Download LR Model Card PDF](https://raw.githubusercontent.com/anand-adroid/Model-Card/main/Model_card LR.pdf)
+ [Download LR Model Card PDF](https://raw.githubusercontent.com/anand-adroid/Model-Card/main/Model_card%20LR.pdf)
 
- The below figure shows the snapshot of the LR model card
+ The figure below shows the snapshot of the LR model card
 
  ## Model Card for LR
 
