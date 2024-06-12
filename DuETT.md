@@ -1,5 +1,5 @@
 
- [Download Model Card PDF](https://raw.githubusercontent.com/anand-adroid/Model-Card/main/Model_card.pdf)
+ [Download DuETT Model Card PDF](https://raw.githubusercontent.com/anand-adroid/Model-Card/main/Model_card.pdf)
 
  Below figure shows the snapshot of the DuETT model card
 
