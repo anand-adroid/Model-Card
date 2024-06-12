@@ -7,7 +7,7 @@ The provided model cards are based on the analysis and experiments conducted in 
 
 ## Contents
 - [DuETT](DuETT.md)
-- [STraTS](STrats.md)
+- [STraTS](STraTS.md)
 - [LSTM](LSTM.md)
 - [XG Boost](XGBoost.md)
 - [LR](LR.md)
