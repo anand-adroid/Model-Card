@@ -1,5 +1,5 @@
 
- [Download LSTM Model Card PDF](https://raw.githubusercontent.com/anand-adroid/Model-Card/main/Model_card LSTM.pdf)
+ [Download LSTM Model Card PDF](https://raw.githubusercontent.com/anand-adroid/Model-Card/main/Model_card%20LSTM.pdf)
 
  The figure below shows the snapshot of the LSTM model card
 
